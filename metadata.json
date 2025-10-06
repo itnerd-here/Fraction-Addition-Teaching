@@ -1,0 +1,5 @@
+{
+  "name": "Fraction Pie Addition",
+  "description": "An interactive web application to help kids learn fraction addition using pie chart visualizations. The app demonstrates how to find a common denominator and add fractions with different denominators in a fun, visual way.",
+  "requestFramePermissions": []
+}
